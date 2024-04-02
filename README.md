@@ -11,9 +11,9 @@
             <td colspan="3" align="center"><h1><font size="5" color="purple">RIVER</font></h1></td>
         </tr>
         <tr>
-            <td><a href="#"><h1 align="left">História</h1></a></td>
+            <td><a href="#"><h1 style="text-align: left;">História</h1></a></td>
             <td width="100%"></td>
-            <td><a href="#"><h1 align="right">Categoria</h1></a></td>
+            <td><a href="#"><h1 style="text-align: right;">Categoria</h1></a></td>
         </tr>
     </table>
     <table>
@@ -29,7 +29,7 @@
             <td><h2><a href="https://mangaonline.biz/generos/">Categorias de Mangá</a></h2></td>
         </tr>
     </table>
-    <table border="1px" width="100%" bgcolor="#c0c0c0">
+    <table border="1" width="100%" bgcolor="#c0c0c0">
         <tr>
             <td colspan="2" align="center"><acronym title="Noticias atletismo Santana">N.A.S</acronym></td>
         </tr>
@@ -37,9 +37,9 @@
     
     <table align="center" bgcolor="#c0c0c0" cellpadding="10" cellspacing="10" width="80%">
         <tr>
-            <td align="middle"><img width="200" height="200" src="tokyo-ghoul.jpg"/></td>
-            <td align="middle"><img width="200" height="200" src="manga-shoujou-orange.jpg"/></td>
-            <td align="middle"><img width="200" height="200" src="hello-kitty.jpg"/></td>
+            <td align="middle"><img width="200" height="200" src="tokyo-ghoul.jpg" alt="tokyo-ghoul"/></td>
+            <td align="middle"><img width="200" height="200" src="manga-shoujou-orange.jpg" alt="manga-shoujou-orange"/></td>
+            <td align="middle"><img width="200" height="200" src="hello-kitty.jpg" alt="hello-kitty"/></td>
         </tr>
         <tr>
             <td align="justify"><b>Seinen</b> <a href="https://mangasonline.cc/manga/tokyo-ghoul/">Clique aqui para ler</a></td>
@@ -47,7 +47,7 @@
             <td align="justify"><b>Josei</b> <a href="https://blogbbm.com/manga/wotakoi/">Clique aqui para ler</a></td>
         </tr>
         <tr>
-            <td align="justify"><b>Shounen</b> <a href="https://editorajbc.com.br/mangas/colecao/orange/">Clique aqui para ler</a></td>
+            <td align="justify"><b>Shounen</b> <a href="https://mangaonline.biz/manga/hunter-x-hunter/">Clique aqui para ler</a></td>
             <td align="justify"><b>Kodomo</b> <a href="https://myanimelist.net/anime/23915/The_Adventures_of_Hello_Kitty___Friends">Clique aqui para ler</a></td>
             <td></td>
         </tr>
